@@ -1,0 +1,361 @@
+@media (max-width:767px) {
+    .btn-canva {
+        display: block !important;
+        color: #fff;
+        padding: 0 !important;
+        margin: 0 !important;
+        margin-right: 10px !important;
+    }
+
+    .btn-canva:focus {
+        color: #fff !important;
+        border: none !important;
+    }
+
+    .fa-bars-staggered {
+        font-size: 30px;
+    }
+
+    .navbar-brand img {
+        width: 290px;
+        height: auto;
+    }
+
+    .offcanvas {
+        padding: 0;
+        margin: 0;
+        background-color: var(--green-color) !important;
+    }
+
+    .logo {
+        width: 290px;
+        height: auto;
+    }
+
+    .btn-close {
+        font-size: 25px;
+        margin: 0;
+        padding-inline-start: 0;
+        margin-left: 15px !important;
+        filter: brightness(0) invert(1);
+    }
+
+    .banner .typed-container h1 {
+        font-size: 40px;
+        top: 9%;
+    }
+
+    .banner .typed-container h2 {
+        font-size: 40px;
+        top: 4%;
+        left: -8%;
+        transform: translate(22%, 50%);
+    }
+
+    .typed-container p {
+        font-size: 12px;
+        line-height: 18px;
+        color: #fff;
+        left: 10%;
+        top: 45%;
+        transform: translate(-5%, 50%);
+    }
+
+    .flex-btn {
+        bottom: 28%;
+        width: 53%;
+        flex-direction: column;
+    }
+
+    .flex-btn {
+        left: 50%;
+        bottom: 16%;
+    }
+
+    .ab-link {
+        font-size: 14px;
+        padding: 10px !important;
+    }
+
+    .dropdown-menu {
+        width: 100%;
+        padding: 0;
+        background-color: transparent;
+    }
+
+    .dropdown-item {
+        padding: 10px 20px;
+        color: #fff;
+        font-size: 14px;
+    }
+
+    .accordion-item,
+    .accordion-header,
+    .accordion-button,
+    .accordion-body {
+        background-color: transparent !important;
+        box-shadow: none !important;
+        border: none !important;
+        padding: 0;
+        margin: 0;
+    }
+
+    .ab-link {
+        font-size: 14px;
+        color: #fff;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .ab-link:hover {
+        color: #fff !important;
+        text-decoration: none !important;
+    }
+
+    .ab-link:focus {
+        color: #fff !important;
+        text-decoration: none !important;
+    }
+
+    .accordion-body .product {
+        font-size: 14px;
+        color: #fff !important;
+        padding: 15px 0;
+        list-style: none;
+        text-decoration: none;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .accordion-body ul li {
+        list-style: none;
+        padding: 10px 0 !important;
+    }
+
+    .accordion-button::after {
+        display: none !important;
+    }
+
+    .accordion-button .fa-solid .accordion-icon {
+        height: 25px;
+        padding: 4px 0;
+        width: 25px;
+        margin-left: 72%;
+    }
+
+    .accordion-button:hover .accordion-icon {
+        transform: rotate(180deg);
+    }
+
+    .flexnav {
+        display: flex;
+        align-items: center;
+        padding: 10px 20px;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+
+    #phone {
+        justify-content: center;
+        color: #fff;
+        font-size: 14px;
+        padding: 10px 0;
+        width: 100%;
+        border-radius: 25px;
+        border: 1px solid #fff;
+    }
+
+    .btn-nav {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+@media (min-width:768px) and (max-width: 991px) {
+    .btn-canva {
+        display: block !important;
+        color: #fff;
+        padding: 0 !important;
+        margin: 0 !important;
+        margin-right: 10px !important;
+    }
+
+    .btn-canva:focus {
+        color: #fff !important;
+        border: none !important;
+    }
+
+    .fa-bars-staggered {
+        font-size: 30px;
+    }
+
+    .navbar-brand img {
+        width: 350px;
+        height: auto;
+    }
+
+    .offcanvas {
+        padding: 0;
+        margin: 0;
+        background-color: var(--green-color) !important;
+    }
+
+    .logo {
+        width: 290px;
+        height: auto;
+    }
+
+    .btn-close {
+        font-size: 25px;
+        margin: 0;
+        padding-inline-start: 0;
+        margin-left: 15px !important;
+        filter: brightness(0) invert(1);
+    }
+
+    .banner .typed-container h1 {
+        font-size: 55px;
+        top: 33%;
+    }
+
+    .banner .typed-container h2 {
+        font-size: 56px;
+        top: 31%;
+        left: -11%;
+        transform: translate(22%, 50%);
+    }
+
+    .typed-container p {
+        font-size: 18px;
+        line-height: 23px;
+        color: #fff;
+        left: 17%;
+        top: 50%;
+        transform: translate(-5%, 50%);
+    }
+
+
+    .flex-btn {
+        left: 50%;
+        bottom: 20%;
+        width: 53%;
+    }
+
+    .btn-product p {
+        font-size: 14px;
+        margin-top: 4px;
+        justify-content: center;
+    }
+
+    .btn-product img {
+        margin-top: 4px;
+    }
+
+    .ab-link {
+        font-size: 14px;
+        padding: 10px !important;
+    }
+
+    .dropdown-menu {
+        width: 100%;
+        padding: 0;
+        background-color: transparent;
+    }
+
+    .dropdown-item {
+        padding: 10px 20px;
+        color: #fff;
+        font-size: 14px;
+    }
+
+    .accordion-item,
+    .accordion-header,
+    .accordion-button,
+    .accordion-body {
+        background-color: transparent !important;
+        box-shadow: none !important;
+        border: none !important;
+        padding: 0;
+        margin: 0;
+    }
+
+    .ab-link {
+        font-size: 14px;
+        color: #fff;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .ab-link:hover {
+        color: #fff !important;
+        text-decoration: none !important;
+    }
+
+    .ab-link:focus {
+        color: #fff !important;
+        text-decoration: none !important;
+    }
+
+    .accordion-body .product {
+        font-size: 14px;
+        color: #fff !important;
+        padding: 15px 0;
+        list-style: none;
+        text-decoration: none;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .offcanvas-body ul {
+        padding: 0;
+        margin: 0;
+    }
+
+    .product1 {
+        font-size: 14px;
+        padding: 0 0 0 14px !important;
+        margin: 0 !important;
+        color: #fff !important;
+        font-family: 'Poppins', sans-serif;
+        text-decoration: none;
+    }
+
+    .accordion-body ul li {
+        list-style: none;
+        padding: 10px 0 !important;
+    }
+
+    .accordion-button::after {
+        display: none !important;
+    }
+
+    .accordion-button .fa-solid .accordion-icon {
+        height: 25px;
+        padding: 4px 0;
+        width: 25px;
+        margin-left: 72%;
+    }
+
+    .accordion-button:hover .accordion-icon {
+        transform: rotate(180deg);
+    }
+
+    .flexnav {
+        display: flex;
+        align-items: center;
+        padding: 10px 20px;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+
+    #phone {
+        justify-content: center;
+        color: #fff;
+        font-size: 14px;
+        padding: 10px 0;
+        width: 100%;
+        border-radius: 25px;
+        border: 1px solid #fff;
+    }
+
+    .btn-nav {
+        width: 100%;
+        justify-content: center;
+    }
+}
