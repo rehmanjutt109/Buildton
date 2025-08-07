@@ -153,6 +153,12 @@
         flex-direction: column;
     }
 
+    .btn-product p {
+        font-size: 14px;
+        margin-top: 4px;
+        justify-content: center;
+    }
+
     #phone {
         justify-content: center;
         color: #fff;
